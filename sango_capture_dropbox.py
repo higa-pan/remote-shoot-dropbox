@@ -59,7 +59,7 @@ if __name__ == "__main__":
     base_path = os.path.join(dir_path)
 
     print("これから{}秒ごとに撮影を行います".format(config["shooting interval"]))
-    print("撮影された画像は https://www.dropbox.com/sh/h2ezz6s8ylokdtm/AAD7NbHAQlrxXgJJrJ5RpRe_a?dl=0 で確認できます")
+    print("撮影された画像は https://www.dropbox.com/--各自のdropboxの保存先リンク-- で確認できます")
     print('終了させたい場合は "ctul" キーを押しながら "c" を入力してください')
 
     # set start time
